@@ -13,8 +13,6 @@ ___
 
 Tu peux aussi me retrouver sur les reseaux sociaux, chaque jour je documente mon parcours... 
 
-#Uncle Bob #SOLID #CSharp
-
 ► INSTAGRAM : https://www.instagram.com/bumbledev/
 ► FACEBOOK : https://www.facebook.com/Bumble-Dev-1...
 ► TWITTER : https://twitter.com/Evilznet
